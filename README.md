@@ -19,4 +19,4 @@
 10) Push content 
 .. **git push -u origin master**
 
-At any point use 'git status' to check the status of the repo you are in. 
+At any point use '**git status**' to check the status of the repo you are in. 
