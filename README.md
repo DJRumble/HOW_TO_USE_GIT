@@ -1,6 +1,6 @@
 # HOW_TO_USE_GIT
 
-1) On your personal GITHUB account [**https://github.com/DJRumble**] create a new repository
+1) On your personal GITHUB account [https://github.com/DJRumble] create a new repository
 2) Clone that repositotry to the desired folder from the cmd line
 .. **git clone https://github.com/DJRumble/HOW_TO_USE_GIT.git**
 3) move to the directory 
